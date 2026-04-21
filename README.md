@@ -1,6 +1,6 @@
 # Travel-agency
 Simple HTML Travel Agency webpage showcasing Dubai packages with images, links, and basic SEO meta tags.
-# Travel Agency Webpage 🌍
+# Travel Agency Webpage
 This is a basic HTML project I created to practice building a simple webpage.
 The page is about a travel agency that offers trips to Dubai.
 ## About the Project
@@ -24,3 +24,4 @@ I Also added a meta description to understand how SEO works.
  ## Author
 MOHAMMED RIZWAN AR
 REPOSITERY:-
+https://github.com/rizwanar777-coder/Travel-agency/blob/main/build-a-travel-agency-page.html
